@@ -217,6 +217,7 @@ Creating content without showing your face is one of the fastest-growing content
 - [Uppbeat](https://uppbeat.io/) — Free music for creators with a generous free tier.
 
 ### Podcast Tools
+- [Airtape](https://airtape.co/) — Browser-based remote recording studio with separate local tracks for each guest.
 - [Riverside.fm](https://riverside.fm/) — High-quality remote podcast recording.
 - [Buzzsprout](https://www.buzzsprout.com/) — Easy podcast hosting and distribution.
 - [Transistor](https://transistor.fm/) — Podcast hosting with analytics and multiple shows.
