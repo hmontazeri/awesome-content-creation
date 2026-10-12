@@ -382,5 +382,4 @@ This list is released under [CC0 1.0 Universal](LICENSE). You're free to use, sh
 
 **Found this useful?** Give it a star and share it with a fellow creator.
 
-
 **Have a tool to add?** [Open an issue](https://github.com/jakeolschewski/awesome-content-creation/issues) or submit a PR.
